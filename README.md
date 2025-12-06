@@ -1,3 +1,3 @@
 # osu_skin
 
-My skils from OSU!
+My skins from OSU!
